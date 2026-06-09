@@ -28,7 +28,7 @@ class_name = "BackupTransferRunner"
 
 [[kv_namespaces]]
 binding = "NodeWarden_KV"
-id = "57fc46a585cc43ba9e3c134924be5cec"
+id = "af8077e2f3a84cd48f70b5b4f5c8b082"
 
 [[migrations]]
 tag = "v1-notifications-hub"
